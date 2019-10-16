@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name C64-PSU-251053-11_Austauschplatine-rescue)(type Legacy)(uri ${KIPRJMOD}/C64-PSU-251053-11_Austauschplatine-rescue.lib)(options "")(descr ""))
+  (lib (name TMO_regul)(type Legacy)(uri /Users/Tom/Documents/KiCad/library/TMO/TMO_regul.lib)(options "")(descr ""))
+  (lib (name TMO_conn)(type Legacy)(uri /Users/Tom/Documents/KiCad/library/TMO/TMO_conn.lib)(options "")(descr ""))
+  (lib (name tsr3-1250)(type Legacy)(uri ${KIPRJMOD}/library/tsr3-1250.lib)(options "")(descr ""))
+  (lib (name OKX-T_3-D12)(type Legacy)(uri ${KIPRJMOD}/library/OKX-T_3-D12.lib)(options "")(descr ""))
+)

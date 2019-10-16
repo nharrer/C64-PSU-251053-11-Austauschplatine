@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TSR3-1250
+D 150mA low dropout linear regulator, wide input voltage range, 1.5V fixed positive output, SOT-23-5 package
+K linear regulator ldo fixed positive
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OKX-T/3-D12
+D 3A non isolated step down switching regulators
+K regulator adjustable positive
+$ENDCMP
+#
+#End Doc Library
